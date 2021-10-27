@@ -56,6 +56,11 @@ _It will return your data with no populate for default first level relations, pr
 
 ---
 
+## ❗ &nbsp;  _Cautions_
+This plugin overrides the strapi core crontroller creator for content-types, and disable the `find` and `findOne` custom functions on your api controllers, so if you want to customize the `find` or `findOne` controller, please create a function with a different name for your self purposes. 
+
+---
+
 ## 🎉 &nbsp;  _Congradulations, You're done._
 
 I hope this plugin helps you in your strapi projects and save a lot of time and code.
