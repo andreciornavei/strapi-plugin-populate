@@ -1,7 +1,7 @@
 {
   "name": "strapi-plugin-populate",
   "version": "1.0.0",
-  "description": "A strapi plugin that allow to populate models by query filter and routes.json",
+  "description": "A strapi plugin that allow to populate models by query-params and routes.json",
   "dependencies": {},
   "author": {
     "name": "André Ciornavei",
