@@ -1,0 +1,39 @@
+{
+  "name": "strapi-plugin-populate",
+  "version": "1.0.0",
+  "description": "A strapi plugin that allow to populate models by query filter and routes.json",
+  "dependencies": {},
+  "author": {
+    "name": "André Ciornavei",
+    "email": "andre.ciornavei@gmail.com",
+    "url": "https://github.com/andreciornavei"
+  },
+  "maintainers": [
+    {
+      "name": "André Ciornavei",
+      "email": "andre.ciornavei@gmail.com",
+      "url": "https://github.com/andreciornavei"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreciornavei/strapi-plugin-populate.git"
+  },
+  "homepage": "https://github.com/andreciornavei/strapi-plugin-populate#readme",
+  "bugs": {
+    "url": "https://github.com/andreciornavei/strapi-plugin-populate/issues"
+  },
+  "keywords": [
+    "strapi",
+    "input",
+    "filter",
+    "populate",
+    "node",
+    "library"
+  ],
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
